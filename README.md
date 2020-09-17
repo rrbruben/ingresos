@@ -7,7 +7,8 @@ Ejemplo de repositorio del curso de codigo
 -Java 1.8
 -maven 3.4
 
-#Contruccion y compilacion
-mvn compile -DskpTest
+#  Construcion y compilacion
+mvn compile -DskioTests
 
+#  Run
 Java - jar cuso -avanzado.jar
